@@ -1,0 +1,8 @@
+{
+  "name": "swapkill",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "e7fcda2b"
+}
